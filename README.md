@@ -1,1 +1,1 @@
-Object Detection and Segmantic Segmentation Project
+Object Detection and Semantic Segmentation Project
